@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	system("Color 0A");
+	system("Color 0C");
 
 	cout << "=============\n ";
 	cout << "Hello World\n";
